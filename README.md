@@ -11,7 +11,7 @@ A sophisticated financial management dashboard showcasing enterprise-level React
 
 ## 🚀 Live Demo
 
-[View Live Application](financeflow-production-3acf.up.railway.app)
+[View Live Application](https://financeflow-production-3acf.up.railway.app)
 
 ## 📸 Screenshots
 
