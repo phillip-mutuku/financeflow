@@ -1,0 +1,9 @@
+[build]
+builder = "nixpacks"
+
+[build.environment]
+NPM_CONFIG_LEGACY_PEER_DEPS = "true"
+NODE_VERSION = "18"
+
+[deploy]
+startCommand = "npm run build && npm run preview"
